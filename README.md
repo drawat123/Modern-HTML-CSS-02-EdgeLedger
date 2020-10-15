@@ -1,0 +1,1 @@
+A simple website made to understand the concept of flexbox.
